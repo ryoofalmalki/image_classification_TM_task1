@@ -1,4 +1,4 @@
-# 🧠 Image Classification Project – Teachable Machine + Google Colab
+# 🧠 Image Classification Task – Teachable Machine + Google Colab
 
 This project is a simple image classifier trained using Teachable Machine by Google, then deployed and tested using Python in Google Colab.  
 It includes training three classes, writing prediction code, and visual documentation.
@@ -99,7 +99,7 @@ Here, the notebook installs necessary packages like TensorFlow and prepares the 
 ### 🧠 4. Predicting the Image Class  
 ![IMG_5804](IMG_5804.jpeg)
 
-✅ The model successfully predicted the class and printed the class name and its confidence score.  
+🪄✨ The model successfully predicted the class and printed the class name and its confidence score.  
 This proves the model is working correctly!
 
 ---
@@ -107,7 +107,7 @@ This proves the model is working correctly!
 ### 🖼️ 5. Test Image Used  
 ![TESST](TESST.jpg)
 
-🧪 This is the test image used during prediction.  
+🪄 This is the test image used during prediction.  
 The model classified it as "**Swimming**" — and it was absolutely correct! 💪💗
 
 ---
@@ -116,14 +116,14 @@ The model classified it as "**Swimming**" — and it was absolutely correct! �
 
 ## 🌟 Final Result
 
-✅ Model trained successfully using Teachable Machine  
-✅ Prediction executed in Google Colab  
-✅ Class name and confidence score printed correctly  
-✅ Visual steps and outputs documented clearly  
+🪄✨ Model trained successfully using Teachable Machine  
+🪄✨ Prediction executed in Google Colab  
+🪄✨ Class name and confidence score printed correctly  
+🪄✨ Visual steps and outputs documented clearly  
 
 ---
 
 ## 👩🏻‍💻 Created By
 
-🎀Ryof Dkhilallah Al-Malki🎀
+🎀Ryoof Dkhilallah Al-Malki🎀
 
