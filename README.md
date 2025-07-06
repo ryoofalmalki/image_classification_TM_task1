@@ -1,4 +1,4 @@
-# 🧠 Image Classification Task – Teachable Machine + Google Colab
+# 🤖 Image Classification Task – Teachable Machine + Google Colab
 
 This project is a simple image classifier trained using Teachable Machine by Google, then deployed and tested using Python in Google Colab.  
 It includes training three classes, writing prediction code, and visual documentation.
